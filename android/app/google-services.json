@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "882475621250",
+    "project_id": "ben-10-skin",
+    "storage_bucket": "ben-10-skin.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:882475621250:android:211e6858656bc1b4fdcd9b",
+        "android_client_info": {
+          "package_name": "com.modnemaliens.adbostore"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "882475621250-gbh8tpbuo9esmnu6fcoe46ase590m0cq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD04nkRorgem68IxIHgtnzOJ9E9_xlWiLE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "882475621250-gbh8tpbuo9esmnu6fcoe46ase590m0cq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
